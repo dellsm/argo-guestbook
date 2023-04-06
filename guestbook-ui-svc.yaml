@@ -3,7 +3,7 @@ kind: Service
 metadata:
   name: guestbook-ui
   labels:
-    type: poc
+    type: poc1
 spec:
   ports:
   - port: 80
